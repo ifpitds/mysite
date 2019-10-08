@@ -7,4 +7,5 @@ Aplicação "Despesa": controle de gastos
 Aplicação "Apartamento": controle de condominio
 Aplicação "Compras": controle de compras
 Aplicação "Anuncio": serviço de classificados
+Aplicação "Biblioteca": cadastro de livros
 ```
