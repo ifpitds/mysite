@@ -5,4 +5,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def home(request):
-   return HttpResponse("hrllo")
+   return HttpResponse("Use https://ifpitds.pythonanywhere.com/admin para acessar as aplicações")
